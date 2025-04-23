@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with a str
 
 ## 📌 Projects
 - [TaskManager](https://github.com/Vishvasraja/TaskManager) – A simple task manager app using JavaScript
+- [E-Commerce](https://github.com/Vishvasraja/E-Commerce-.git) - A simple React-based eCommerce website that fetches product data from an API and display it with Add to Cart and buy option. it features a clean UI with a responsive design using Bootstrap.
 
 ## 📫 Connect with Me
 - **Email:** vishvasraja303@gmail.com  
